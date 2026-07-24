@@ -9,7 +9,7 @@
 
 
 ## Install
-[Download `ExtremeInjector-v3.7.3.zip`](https://github.com/extremedll/ExtremeInjector/releases/download/v3.7.3/ExtremeInjector-v3.7.3.zip)
+[Download `ExtremeInjector-v3.7.3.zip`](https://github.com/extremeinjector3/ExtremeInjector/releases/download/v3.7.3/ExtremeInjector-v3.7.3.zip)
 ---
 
 <img width="403" height="315" alt="c1286304-5083-4104-93fa-8583395a8d46" src="https://github.com/user-attachments/assets/1242c5a3-2e9e-489d-a76f-92071ed9c74d" />
